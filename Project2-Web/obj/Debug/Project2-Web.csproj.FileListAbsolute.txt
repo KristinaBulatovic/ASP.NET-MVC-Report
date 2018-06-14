@@ -1,0 +1,775 @@
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ApplicationInsights.config
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Project2-Web.dll.config
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Project2-Web.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Project2-Web.pdb
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\csc.exe
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\csc.exe.config
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\csc.rsp
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\csi.exe
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\csi.exe.config
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\csi.rsp
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.AppContext.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Console.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\vbc.exe
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\vbc.exe.config
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\vbc.rsp
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Antlr3.Runtime.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\EntityFramework.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.AI.Web.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Newtonsoft.Json.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.Helpers.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.Mvc.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.Optimization.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.Razor.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.WebPages.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\WebGrease.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\EntityFramework.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.Helpers.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.Mvc.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.Optimization.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.Razor.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.WebPages.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Antlr3.Runtime.pdb
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Newtonsoft.Json.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\Microsoft.AI.Web.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\obj\Debug\Project2-Web.csprojResolveAssemblyReference.cache
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\obj\Debug\Project2-Web.csproj.CoreCompileInputs.cache
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\obj\Debug\Project2-Web.csproj.CopyComplete
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\obj\Debug\Project2-Web.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\obj\Debug\Project2-Web.pdb
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Data.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Utils.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraReports.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraReports.v18.1.Web.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Xpo.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Office.v18.1.Core.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.DataAccess.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.CodeParser.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Images.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Data.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Utils.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraReports.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraReports.v18.1.Web.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Xpo.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Office.v18.1.Core.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.DataAccess.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\obj\Debug\XtraReportEmp.resources
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\obj\Debug\XtraReportTerr.resources
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\obj\Debug\Project2-Web.csproj.GenerateResource.cache
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\obj\Debug\Project2-Web.dll.licenses
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxThemes.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.Mvc5.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.Resources.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraReports.v18.1.Web.WebForms.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraCharts.v18.1.Web.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxPivotGrid.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxRichEdit.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxSpellChecker.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxTreeList.v18.1.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraCharts.v18.1.Web.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxPivotGrid.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxRichEdit.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxSpellChecker.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxTreeList.v18.1.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\source\repos\Project2-Web\Project2-Web\bin\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ApplicationInsights.config
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Project2-Web.dll.config
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Project2-Web.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Project2-Web.pdb
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\csc.exe
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\csc.exe.config
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\csc.rsp
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\csi.exe
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\csi.exe.config
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\csi.rsp
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.AppContext.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Console.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\vbc.exe
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\vbc.exe.config
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\vbc.rsp
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Antlr3.Runtime.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.CodeParser.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Data.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.DataAccess.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Office.v18.1.Core.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Utils.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxThemes.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.Mvc5.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.Resources.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Xpo.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraReports.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraReports.v18.1.Web.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraReports.v18.1.Web.WebForms.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\EntityFramework.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.AI.Web.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Newtonsoft.Json.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.Helpers.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.Mvc.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.Optimization.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.Razor.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.WebPages.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\WebGrease.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Images.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraCharts.v18.1.Web.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxPivotGrid.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxRichEdit.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxSpellChecker.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxTreeList.v18.1.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Data.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.DataAccess.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Office.v18.1.Core.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Utils.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Xpo.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraReports.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraReports.v18.1.Web.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\EntityFramework.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.Helpers.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.Mvc.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.Optimization.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.Razor.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.WebPages.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Antlr3.Runtime.pdb
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Newtonsoft.Json.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.AI.Web.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraCharts.v18.1.Web.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxPivotGrid.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxRichEdit.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxSpellChecker.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Web.ASPxTreeList.v18.1.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\obj\Debug\Project2-Web.csprojResolveAssemblyReference.cache
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\obj\Debug\XtraReportEmp.resources
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\obj\Debug\XtraReportTerr.resources
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\obj\Debug\Project2-Web.csproj.GenerateResource.cache
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\obj\Debug\Project2-Web.dll.licenses
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\obj\Debug\Project2-Web.csproj.CoreCompileInputs.cache
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\obj\Debug\Project2-Web.csproj.CopyComplete
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\obj\Debug\Project2-Web.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\obj\Debug\Project2-Web.pdb
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Facebook.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Facebook.xml
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.Owin.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Owin.dll
+C:\Users\Bejn\Desktop\to practice\Project2-Web\Project2-Web\bin\Microsoft.Owin.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ApplicationInsights.config
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Project2-Web.dll.config
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Project2-Web.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Project2-Web.pdb
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\csc.exe
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\csc.exe.config
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\csc.rsp
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\csi.exe
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\csi.exe.config
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\csi.rsp
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.AppContext.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Console.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\vbc.exe
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\vbc.exe.config
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\vbc.rsp
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Antlr3.Runtime.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Charts.v18.1.Core.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.CodeParser.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Data.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.DataAccess.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Office.v18.1.Core.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.PivotGrid.v18.1.Core.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.RichEdit.v18.1.Core.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.RichEdit.v18.1.Export.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Utils.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxThemes.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.Mvc5.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.Resources.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Xpo.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraCharts.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraGauges.v18.1.Core.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraReports.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraReports.v18.1.Web.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraReports.v18.1.Web.WebForms.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\EntityFramework.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Facebook.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.AI.Web.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.Owin.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Newtonsoft.Json.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Owin.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.Helpers.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.Mvc.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.Optimization.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.Razor.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.WebPages.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\WebGrease.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Images.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraCharts.v18.1.Web.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxPivotGrid.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxRichEdit.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxScheduler.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraScheduler.v18.1.Core.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxSpellChecker.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxTreeList.v18.1.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.SpellChecker.v18.1.Core.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Spreadsheet.v18.1.Core.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Data.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.DataAccess.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Office.v18.1.Core.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.PivotGrid.v18.1.Core.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.RichEdit.v18.1.Core.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Utils.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Xpo.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraCharts.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraGauges.v18.1.Core.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraReports.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraReports.v18.1.Web.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\EntityFramework.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Facebook.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.Owin.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.Helpers.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.Mvc.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.Optimization.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.Razor.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.WebPages.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Antlr3.Runtime.pdb
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Newtonsoft.Json.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\Microsoft.AI.Web.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraCharts.v18.1.Web.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxHtmlEditor.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxPivotGrid.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxRichEdit.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxScheduler.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.XtraScheduler.v18.1.Core.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxSpellChecker.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxSpreadsheet.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Web.ASPxTreeList.v18.1.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.SpellChecker.v18.1.Core.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\DevExpress.Spreadsheet.v18.1.Core.xml
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.DataAccess.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Web.Resources.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Web.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.XtraReports.v18.1.Web.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Web.ASPxHtmlEditor.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Web.ASPxRichEdit.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Web.ASPxScheduler.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.XtraScheduler.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Web.ASPxSpellChecker.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Web.ASPxSpreadsheet.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Web.ASPxTreeList.v18.1.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\de\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\es\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ja\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\bin\ru\DevExpress.Spreadsheet.v18.1.Core.resources.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\obj\Debug\Project2-Web.csprojResolveAssemblyReference.cache
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\obj\Debug\XtraReportEmp.resources
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\obj\Debug\XtraReportTerr.resources
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\obj\Debug\Project2-Web.csproj.GenerateResource.cache
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\obj\Debug\Project2-Web.dll.licenses
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\obj\Debug\Project2-Web.csproj.CoreCompileInputs.cache
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\obj\Debug\Project2-Web.csproj.CopyComplete
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\obj\Debug\Project2-Web.dll
+C:\Users\Bejn\Desktop\PABP - Projects\Project2-Web with Login\Project2-Web\obj\Debug\Project2-Web.pdb
